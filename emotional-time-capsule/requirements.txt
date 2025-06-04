@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+streamlit
+openai
+sqlalchemy
+gtts
+whisper
